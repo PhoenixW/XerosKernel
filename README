@@ -1,7 +1,8 @@
 This project was completed in a two person group.  Some of the code was 
 given to us already completed.  We wrote most of the code in the c directory
 except for the files: evec.c, i386.c, kprintf.c, the Makefile, and the 
-assembly files.
+assembly files.  Code in other files was mostly supplied to us, except for
+xeroskernel.h in the h directory.
 
 -----------------------------------------------------------------------
 
